@@ -4,16 +4,17 @@
 </div>
 
 ## My Journey ☁
-<div>
-  <p>
+
+
+<img align="right" height="400em" src="https://user-images.githubusercontent.com/79629964/196351287-bdfaabad-cebe-4734-ad6b-c6598ed0ee4d.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luis-eduardoo&color=blue" alt="Profile views" /> </p>
+
+ <div align="justify" <p> 
   Meu nome é Luis Eduardo, mais conhecido como Du. Sou Consultor Marketing Cloud, apaixonado por tecnologia, futebol e jogos. 
   Sempre me interessei pela área de tecnologia mas foi apenas em Jan/2021, com 21 anos, que resolvi sair no 4 ano do curso de Direito para ingressar na área de tecnologia, decisão  que me orgulho muito e que mudou minha vida (para melhor!!). 
   Atualmente atuo frente ao desenvolvimento e utilização da plataforma Salesforce Marketing Cloud na match.mt, utilizando ao máximo features da plataforma (Email Studio, Automation Studio, Journey Builder, Query Studio, entre outras...), os códigos também estão presentes de forma rotineira em meu dia a dia, possuo conhecimento técnico em linguagens atuais do mercado SFMC (HTML, CSS, SQL e a minha favorita AMPScript 😁). Além disso, estudo de forma independente a área de Desing, possuindo conhecimento em Photoshop e After Effects.
-    </p>
-</div>
-
-## ⚙️ Estatísticas GitHub
-
+   </p> </div>
+  
 
 ## 👨🏽‍💻🚀 Minhas Tecnologias  
   
@@ -24,12 +25,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/
 </div><br>
 
-## ☁ Certificações
+## ☁ Certificações / Celebrações
 
-Certification   | Ano 
+Certification / Celebrações   | Ano 
 --------- | ------ 
-🏅 Email Specialist Marketing Cloud | DEZ/2021 |
-🏅 Administrator Marketing Cloud | MAI/2022 |
+🏅 Marketing Cloud Email Specialist | DEZ/2021 |
+🎓 Orientador Match Academy | JAN/2022 |
+🏅 Marketing Cloud Administrator | MAI/2022 |
 
 
 ## 🌐 Minhas Redes Sociais
