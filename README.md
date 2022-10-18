@@ -13,7 +13,7 @@
   Meu nome é Luis Eduardo, mais conhecido como Du. Sou Consultor Marketing Cloud, apaixonado por tecnologia, futebol e jogos. 
   Sempre me interessei pela área de tecnologia mas foi apenas em Janeiro/2021, com 21 anos, que resolvi sair no 4 ano do curso de Direito para ingressar na área de tecnologia, decisão  que me orgulho muito e que mudou minha vida (para melhor!!). 
   Atualmente atuo frente ao desenvolvimento e utilização da plataforma Salesforce Marketing Cloud na match.mt, utilizando ao máximo features da plataforma (Email Studio, Automation Studio, Journey Builder, Query Studio, entre outras...), os códigos também estão presentes de forma rotineira em meu dia a dia, possuo conhecimento técnico em linguagens atuais do mercado SFMC (HTML, CSS, SQL e a minha favorita AMPScript 😁). 
-  Além disso, estudo de forma independente a área de Desing, possuindo conhecimento em Photoshop e After Effects.
+  Além disso, estudo de forma independente a área de Design e Ilustrações, possuindo conhecimento em Photoshop e After Effects.
    </p> </div>
   
   ## My Journey ☁ [🇺🇸]
@@ -25,7 +25,7 @@
   My name is Luis Eduardo, better known as Du. I'm a Marketing Cloud Consultant, passionate about technology, football and games.
   I have always been interested in the area of technology, but it was only in January/2021, at the age of 21, that I decided to leave the 4th year of law school to enter the area of technology, a decision that I am very proud of and that changed my life (for the better!!).
   Currently I work on the development and use of the Salesforce Marketing Cloud platform at match.mt, using the platform's resources to the fullest (Email Studio, Automation Studio, Journey Builder, Query Studio, among others...), the codes are also present in a favorite in my daily life, I have technical knowledge in current SFMC market languages (HTML, CSS, SQL and my AMPScript 😁).
-  In addition, I study independently in the Design area, having knowledge in Photoshop and After Effects.
+  In addition, I study independently the area of Design and Illustration, having knowledge in Photoshop and After Effects.
    </p> </div>
 
 ## Skills 🌐
