@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://user-images.githubusercontent.com/79629964/196318768-4b57db9e-2673-4b08-8bd8-2a1010376df0.gif">
-  <img height="170em" src="https://user-images.githubusercontent.com/79629964/196342392-ce009c33-5775-48fb-884b-d8b95b547654.gif"/>
+  <img height="170em" src="https://user-images.githubusercontent.com/79629964/196346721-8d8df636-622c-464c-a049-21af5497a340.gif"/>
 </div>
 
 ## 👨🏽‍💻🚀 Minhas Tecnologias  
