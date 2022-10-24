@@ -2,8 +2,9 @@
   <a href="https://user-images.githubusercontent.com/79629964/196318768-4b57db9e-2673-4b08-8bd8-2a1010376df0.gif">
   <img height="170em" src="https://user-images.githubusercontent.com/79629964/196346721-8d8df636-622c-464c-a049-21af5497a340.gif"/>
 </div>
-  ![Views](https://komarev.com/ghpvc/?luis-eduardoo&style=flat-square)
+
 ## Minha Jornada ☁ [🇧🇷]
+  <a href="https://hits.sh/github.com/luis-eduardoo/"><img src="[https://hits.sh/github.com/luis-eduardoo.svg?style=for-the-badge](https://komarev.com/ghpvc/?luis-eduardoo&style=flat-square"/></a>
 
 <img align="right" height="250em" src="https://user-images.githubusercontent.com/79629964/197451362-727137d4-c8bf-4aaf-b476-aa2f5b3d1def.gif"/>
 
