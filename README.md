@@ -1,11 +1,12 @@
 <div align="center">
+  ![](https://komarev.com/ghpvc/?username=your-github-username)
   <a href="https://user-images.githubusercontent.com/79629964/196318768-4b57db9e-2673-4b08-8bd8-2a1010376df0.gif">
   <img height="170em" src="https://user-images.githubusercontent.com/79629964/196346721-8d8df636-622c-464c-a049-21af5497a340.gif"/>
 </div>
+
 ## Minha Jornada ☁ [🇧🇷]
   
 <img align="right" height="250em" src="https://user-images.githubusercontent.com/79629964/197451362-727137d4-c8bf-4aaf-b476-aa2f5b3d1def.gif"/>
-![](https://komarev.com/ghpvc/?username=luis-eduardoo)
 
  <div align="justify" <p> 
   Meu nome é Luis Eduardo, mais conhecido como Du. Sou Consultor Marketing Cloud, apaixonado por tecnologia, futebol e jogos. 
