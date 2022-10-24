@@ -6,7 +6,7 @@
 ## Minha Jornada ☁ [🇧🇷]
 
 
-<img align="right" height="285em" src="https://user-images.githubusercontent.com/79629964/197450953-be697cd3-f549-4912-9929-3fad7d886558.gif"/>
+<img align="right" height="150em" src="https://user-images.githubusercontent.com/79629964/197450953-be697cd3-f549-4912-9929-3fad7d886558.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luis-eduardoo&color=blue" alt="Profile views" /> </p>
 
  <div align="justify" <p> 
@@ -19,7 +19,7 @@
   ## My Journey ☁ [🇺🇸]
 
 
-<img align="left" height="200em" src="https://user-images.githubusercontent.com/79629964/197449627-ef9764be-3f0d-4402-81df-f5fe9514257f.gif"/>
+<img align="left" height="150em" src="https://user-images.githubusercontent.com/79629964/197451057-db63e967-ff13-4605-a897-f85ac82929e9.gif"/>
 
  <div align="justify" <p> 
   My name is Luis Eduardo, better known as Du. I'm a Marketing Cloud Consultant, passionate about technology, football and games.
