@@ -6,7 +6,7 @@
 ## Minha Jornada ☁ [🇧🇷]
 
 
-<img align="right" height="285em" src="https://user-images.githubusercontent.com/79629964/196351287-bdfaabad-cebe-4734-ad6b-c6598ed0ee4d.gif"/>
+<img align="right" height="285em" src="https://user-images.githubusercontent.com/79629964/197450953-be697cd3-f549-4912-9929-3fad7d886558.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luis-eduardoo&color=blue" alt="Profile views" /> </p>
 
  <div align="justify" <p> 
