@@ -24,7 +24,7 @@
   I have always been interested in the area of technology, but it was only in January/2021, at the age of 21, that I decided to leave the 4th year of law school to enter the area of technology, a decision that I am very proud of and that changed my life (for the better!!).
   Currently I work on the development and use of the Salesforce Marketing Cloud platform at match.mt, using the platform's resources to the fullest (Email Studio, Automation Studio, Journey Builder, Query Studio, among others...), the codes are also present in a favorite in my daily life, I have technical knowledge in current SFMC market languages (HTML, CSS, SQL and AMPScript). In addition, I study independently the area of Design and Illustration, having knowledge in Photoshop and After Effects.</p></div>
 
-  ## 🌐 Skills 
+  ## Skills 🌐
   
   <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
@@ -38,7 +38,7 @@
   
 </div><br>
 
-## ☁ Certifications / Celebrations
+## Certifications / Celebrations ☁
 
 Certifications / Celebrationss   | Date 
 --------- | ------ 
@@ -47,7 +47,7 @@ Certifications / Celebrationss   | Date
 🏅 Marketing Cloud Administrator | MAI/2022 |
 
 
-## 🌐Networks
+## Networks 🌐
   
 <div> 
  <a href="https://www.instagram.com/luiseduss_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
