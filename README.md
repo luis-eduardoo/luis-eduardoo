@@ -5,7 +5,7 @@
 
 ## Minha Jornada ☁ [🇧🇷]
 
-<img align="right" height="270em" src="https://user-images.githubusercontent.com/79629964/197451362-727137d4-c8bf-4aaf-b476-aa2f5b3d1def.gif"/>
+<img align="right" height="250em" src="https://user-images.githubusercontent.com/79629964/197451362-727137d4-c8bf-4aaf-b476-aa2f5b3d1def.gif"/>
 
  <div align="justify" <p> 
   Meu nome é Luis Eduardo, mais conhecido como Du. Sou Consultor Marketing Cloud, apaixonado por tecnologia, futebol e jogos. 
