@@ -4,7 +4,7 @@
 </div>
 
 ## Minha Jornada ☁ [🇧🇷]
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
+  ![](https://komarev.com/ghpvc/?username=luis-eduardoo)
 
 <img align="right" height="250em" src="https://user-images.githubusercontent.com/79629964/197451362-727137d4-c8bf-4aaf-b476-aa2f5b3d1def.gif"/>
 
