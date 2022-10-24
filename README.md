@@ -19,7 +19,7 @@
   ## My Journey ☁ [🇺🇸]
 
 
-<img align="left" height="285em" src="https://user-images.githubusercontent.com/79629964/197449627-ef9764be-3f0d-4402-81df-f5fe9514257f.gif"/>
+<img align="left" height="150em" src="https://user-images.githubusercontent.com/79629964/197449627-ef9764be-3f0d-4402-81df-f5fe9514257f.gif"/>
 
  <div align="justify" <p> 
   My name is Luis Eduardo, better known as Du. I'm a Marketing Cloud Consultant, passionate about technology, football and games.
