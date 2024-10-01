@@ -45,6 +45,7 @@ Certifications / Celebrationss   | Date
 🏅 Marketing Cloud Email Specialist | DEZ/2021 |
 🎓 Orientador Match Academy | JAN/2022 |
 🏅 Marketing Cloud Administrator | MAI/2022 |
+🏅 Associate | JUN/2023 |
 
 
 ## Networks 🌐
