@@ -46,6 +46,7 @@ Certifications / Celebrationss   | Date
 🎓 Orientador Match Academy | JAN/2022 |
 🏅 Marketing Cloud Administrator | MAI/2022 |
 🏅 Associate | JUN/2023 |
+🏅 Marketing Cloud Developer | DEZ/2024 |
 
 
 ## Networks 🌐
